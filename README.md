@@ -3,8 +3,6 @@
 Welcome! This is a **simple 3D player controller** for Unity.
 It uses **Rigidbody** physics and allows movement on **ground and air**.
 
-> ⚡ Note: Dash, ground slam, and animations are removed. Only walking, jumping, and air control are included.
-
 ---
 
 ## 📦 Features
