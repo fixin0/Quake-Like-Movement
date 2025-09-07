@@ -102,12 +102,3 @@ git checkout -b feature-name
 4. Open a Pull Request
 
 ---
-
-## 📄 License
-
-This project is under **MIT License**.
-You can use it freely and change it as you like.
-
----
-
-✨ **Happy coding!** ✨
