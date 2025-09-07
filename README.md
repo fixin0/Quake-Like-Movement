@@ -1,9 +1,4 @@
-# 🎮 Unity 3D Rigidbody Player Controller
-
-Welcome! This is a **simple 3D player controller** for Unity.
-It uses **Rigidbody** physics and allows movement on **ground and air**.
-
----
+# 🎮 Unity 3D Quake Like Player Controller
 
 ## 📦 Features
 
